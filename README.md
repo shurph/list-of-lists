@@ -37,3 +37,4 @@
 - https://github.com/Friz-zy/minsk-geek-eventer - список ресурсов, откуда можно доставать события (митапы, конференции) Беларуси, а также *календарь* этих событий
 - https://github.com/frontend-belarus/js-firms - список компаний Беларуси, где есть работа frontend-разработчику
 - https://github.com/sindresorhus/awesome - список всего интересного
+- https://github.com/goq/telegram-list - список интересных групп, каналов и ботов телеграма
