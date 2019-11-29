@@ -25,6 +25,7 @@
   - https://github.com/SaM-Solutions/linux_courses - список курсов по linux от SaM-Solutions
   - https://github.com/epam-llpd/linux_courses - список курсов по linux от EPAM
 - https://github.com/MunGell/awesome-for-beginners - список репозиториев, куда можно начать пробовать отправлять свои пул реквесты начинающим
+- https://github.com/budnyjj/courses_python - список материалов для курсов по Python
 
 ## Open Datasets
 
