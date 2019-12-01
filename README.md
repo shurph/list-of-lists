@@ -26,6 +26,7 @@
   - https://github.com/epam-llpd/linux_courses - список курсов по linux от EPAM
 - https://github.com/MunGell/awesome-for-beginners - список репозиториев, куда можно начать пробовать отправлять свои пул реквесты начинающим
 - https://github.com/budnyjj/courses_python - список материалов для курсов по Python
+- https://github.com/ru-python-beginners/faq - список полезных материалов по Python от участников телеграм-чата @ru_python_beginners
 - https://github.com/jwasham/google-interview-university - A complete computer science study plan to become a software engineer.
 - https://github.com/tlbootcamp/tlroadmap - список обязанностей для Team Lead, список ресурсов для изучения
 - https://github.com/ryanburgess/engineer-manager - список ресурсов для Engineering Manager
