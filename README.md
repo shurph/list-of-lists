@@ -9,7 +9,7 @@
 - https://github.com/pyvideo/data - список видеозаписей с python-мероприятий (отображаются на сайте pyvideo.org)
 - https://github.com/jonatasbaldin/python-community-map - список python-сообществ в мире (отображается точками на карте https://community.python.org.br/)
 - https://github.com/avevlad/russia-it-podcast - Список русскоязычных подкастов на тему информационных технологий
-
+- https://github.com/Hexlet/ru-local-communities - Список русскоязычных сообществ 
 
 ## Development
 - https://github.com/kamranahmedse/developer-roadmap - список тем для изучения для разработчика
